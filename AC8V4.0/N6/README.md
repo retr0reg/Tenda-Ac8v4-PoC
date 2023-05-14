@@ -1,5 +1,5 @@
 # Vulnerability Description
-A stack-based overflow vulnerability that can be triggered via the `formSetFirewallCfg` function of Tenda AC8V4.0-V16.03.34.06.
+A stack-based overflow vulnerability that can be triggered via the `formSetFirewallCfg` function of Tenda AC8V4.0-V16.03.34.06 in the `/bin/httpd` file.
 ## Affected version:
 `US_AC8V4.0si_V16.03.34.06` 
 
