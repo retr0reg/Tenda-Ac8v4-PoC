@@ -1,5 +1,5 @@
 # Vulnerability Description
-A stack-based overflow vulnerability can be triggered by via the  in the sub_44db3c function.
+A stack-based overflow vulnerability can be triggered via the sub_44db3c function in the `/bin/httpd` file.
 ## Affected version:
 `US_AC8V4.0si_V16.03.34.06` 
 
