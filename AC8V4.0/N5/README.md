@@ -1,5 +1,5 @@
 # Vulnerability Description
-A stack-based overflow vulnerability that can be triggered via the `get_parentControl_list_Info` function.
+A stack-based overflow vulnerability that can be triggered via the `get_parentControl_list_Info` function in the `/bin/httpd` file.
 ## Affected version:
 `US_AC8V4.0si_V16.03.34.06` 
 
