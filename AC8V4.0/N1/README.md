@@ -14,5 +14,8 @@ This is a buffer overflow vulnerability in the function sub_44db3c, which handle
 
 Call chain : fast_setting_wifi_set -> form_fast_setting_wifi_set -> sub_44db3c
 
+# Result
+This resulted a crash of the program, Verified locally
+
 # PoC :
 In Additional information
