@@ -16,7 +16,7 @@ Call chain : fast_setting_wifi_set -> form_fast_setting_wifi_set -> sub_44db3c
 
 # Result
 Cause crash (and possible rce) by stack overflow.
-<img width="1920" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/ba81e094-2a56-4a63-a9a3-caea7e39b7d9">
+<img width="1920" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/d0e20623-da79-4a04-b824-fd81027d63f8">
 Core dump is in the same dir
 
 
