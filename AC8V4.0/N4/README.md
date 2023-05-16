@@ -14,6 +14,8 @@ call-chain: saveParentControlInfo -> saveParentControlInfo
 
 # Result
 This resulted a crash of the program, Verified locally
+<img width="1920" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/a43f3975-a8ad-4808-bf46-4a43d82427b7">
+core dump is in the smae dir
 
 # PoC :
 In Additional information
