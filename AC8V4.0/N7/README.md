@@ -12,5 +12,9 @@ To be clear, argument `ssid` needs be set to non-zero value to pass the test.
 
 Call Chain: fast_setting_wifi_set->form_fast_setting_wifi_set->sub_44db3c
 
+# Result
+This resulted a crash of the program, Verified locally
+
+
 # PoC :
 In Additional information
