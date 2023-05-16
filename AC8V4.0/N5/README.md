@@ -17,6 +17,8 @@ Call chain : saveParentControlInfo -> saveParentControlInfo -> get_parentControl
 
 # Result
 This resulted a crash of the program, Verified locally
+<img width="1920" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/14527742-8bc6-40f4-8d61-572f93698edd">
+Core dump is in the same dir
 
 # PoC :
 In Additional information
