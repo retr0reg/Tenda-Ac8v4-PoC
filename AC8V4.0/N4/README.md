@@ -12,5 +12,8 @@ This is a buffer overflow vulnerability in the function responsible for handling
 
 call-chain: saveParentControlInfo -> saveParentControlInfo 
 
+# Result
+This resulted a crash of the program, Verified locally
+
 # PoC :
 In Additional information
