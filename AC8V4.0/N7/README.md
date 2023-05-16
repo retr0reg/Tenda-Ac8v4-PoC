@@ -14,7 +14,8 @@ Call Chain: fast_setting_wifi_set->form_fast_setting_wifi_set->sub_44db3c
 
 # Result
 This resulted a crash of the program, Verified locally
-
+<img width="1920" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/5b20be91-234a-448f-ad7b-766ad5379888">
+Core dump is in the same dir
 
 # PoC :
 In Additional information
