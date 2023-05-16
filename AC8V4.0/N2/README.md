@@ -16,6 +16,8 @@ call chain : WifiGuestSet->fromSetWifiGusetBasic
 
 # Result
 This resulted a crash of the program, Verified locally
+<img width="1920" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/7c2c27f3-6264-40e9-a931-61d3ebf76bc8">
+Core dump is in the same dir
 
 
 # PoC :
