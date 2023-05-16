@@ -13,5 +13,9 @@ This is a buffer overflow vulnerability in the function formSetFirewallCfg which
 
 call chain: SetFirewallCfg->formSetFirewallCfg
 
+# Result
+This resulted a crash of the program, Verified locally
+
+
 # PoC :
 In Additional information
