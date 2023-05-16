@@ -15,5 +15,8 @@ To be clear, the difference between saveParentControlInfo and get_parentControl_
     
 Call chain : saveParentControlInfo -> saveParentControlInfo -> get_parentControl_list_Info
 
+# Result
+This resulted a crash of the program, Verified locally
+
 # PoC :
 In Additional information
