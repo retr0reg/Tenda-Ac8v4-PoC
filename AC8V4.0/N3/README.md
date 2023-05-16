@@ -14,6 +14,8 @@ This is a buffer overflow vulnerability in the function that handles the time pa
  
 # Result
 This resulted a crash of the program, Verified locally
+<img width="1920" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/04caf3cf-0d88-41c7-84b5-1aa26c971f63">
+Core dump is in the same dir
 
 
 # PoC :
