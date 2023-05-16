@@ -14,5 +14,9 @@ This vulnerability can be attacked through a remote network. The attacker only n
 
 call chain : WifiGuestSet->fromSetWifiGusetBasic
 
+# Result
+This resulted a crash of the program, Verified locally
+
+
 # PoC :
 In Additional information
