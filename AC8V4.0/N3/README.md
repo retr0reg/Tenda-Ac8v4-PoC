@@ -11,6 +11,10 @@ This is a buffer overflow vulnerability in the function that handles the time pa
 <img width="923" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/4251fb83-b0c1-49a5-a447-f21fd2697246">
  
  Call chain: SetSysTimeCfg->fromSetSysTime->sub_4a79ec
+ 
+# Result
+This resulted a crash of the program, Verified locally
+
 
 # PoC :
 In Additional information
