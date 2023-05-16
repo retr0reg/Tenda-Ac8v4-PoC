@@ -15,6 +15,8 @@ call chain: SetFirewallCfg->formSetFirewallCfg
 
 # Result
 This resulted a crash of the program, Verified locally
+<img width="1890" alt="image" src="https://github.com/DDizzzy79/Tenda-CVE/assets/72267897/317e1054-3577-4edf-b6f8-217ec45b02f9">
+Core dump is in the same dir
 
 
 # PoC :
